@@ -1,5 +1,5 @@
 # command-line-interpreter
-What my microshell can do: <br/>
+What my shell can do: <br/>
 1. display a prompt in the form [{path}]
 2. support the help command
 3. fork() + exec*()) present
